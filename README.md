@@ -1,52 +1,75 @@
-# 📊 Business Analytics - Análisis Multicanal y CRO en B2B, SaaS y Fintech
 
-Este repositorio contiene dashboards analíticos avanzados enfocados en **rendimiento multicanal**, **optimización de funnels**, **segmentación de clientes** y **predicción**, aplicados a sectores estratégicos como B2B tecnológico, retail premium, SaaS y fintech.
+# 🧠 Análisis del Funnel Digital y Predicción de Ventas (B2C)
 
-![Análisis B2B – Hardware + Software](hardware_software_b2b.png)
+Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desde sesiones hasta ingresos, segmenta usuarios mediante clustering, y aplica un modelo predictivo para estimar la asistencia a eventos deportivos.
 
-Cada análisis incluye visualizaciones ejecutivas y modelos que permiten tomar decisiones basadas en datos reales.
+## 🖼️ Visualizaciones Generales
 
----
+### Análisis General del Funnel Digital y Productos (B2C)
+![Funnel B2C Parte 1](Funnel_B2C_1.png)
 
-## 1. 📈 Rendimiento Multicanal en Tecnología Industrial (Hardware + Software B2B)
+### Predicción, Clustering y KPIs Finales
+![Funnel B2C Parte 2](Funnel_B2C_2.png)
 
-Este análisis explora la eficacia de campañas en Google Ads y LinkedIn Ads para un negocio B2B de tecnología industrial, abordando:
+## 📊 Objetivos
 
-- Inversión vs Ventas
-- Atribución multicanal
-- Leads generados por canal
-- Dispositivos más frecuentes
-- Predicción de ventas (modelo y error)
-- Indicadores de engagement: tiempo de sesión, tasa de rebote, etc.
+- Evaluar el rendimiento diario del funnel: sesiones, compras, conversión e ingresos.
+- Analizar ingresos por producto y comportamiento agregado.
+- Identificar segmentos de usuarios (clustering).
+- Construir un modelo de predicción de asistencia a eventos.
+- Presentar los insights clave de forma visual y ejecutiva.
 
+## 🛠️ Herramientas Utilizadas
 
----
+| Herramienta      | Uso principal                                      |
+|------------------|----------------------------------------------------|
+| `Python`         | Cálculos, modelado y procesamiento de datos       |
+| `Pandas`         | Manipulación de DataFrames                         |
+| `Plotly`         | Visualizaciones interactivas premium               |
+| `Seaborn / Matplotlib` | Análisis exploratorio (EDA)                   |
+| `Scikit-learn`   | Clustering (KMeans), PCA, regresión (RandomForest) |
+| `Canva`          | Diseño de presentación visual final                |
 
-## 🔧 Herramientas Utilizadas
+## 📈 Análisis Realizado
 
-| Herramienta        | Propósito Analítico                            |
-|--------------------|------------------------------------------------|
-| `Python / Pandas`  | Análisis de datos, modelado, limpieza          |
-| `Matplotlib / Seaborn / Plotly` | Visualización profesional y detallada |
-| `Scikit-learn`     | Modelos predictivos, clustering, regresiones   |
-| `BigQuery / GA4`   | Origen de datos digitales                      |
-| `GTM Server Side`  | Instrumentación y trazabilidad                 |
+### 🔹 Funnel Diario
+- Sesiones, conversiones, ingresos y revenue por sesión.
+- Evolución temporal.
+- Visualización oscura profesional con títulos en amarillo.
 
----
+### 🔹 Productos
+- Ingresos por producto.
+- Gráfico stacked (Top 6 + Otros) con paleta azul suave.
+- Ranking de productos más vendidos.
 
-## 🎯 Objetivos Clave
+### 🔹 Clustering de Usuarios
+- Segmentación basada en edad, sesiones, valor medio del carrito, compras e ingresos.
+- Visualizado con PCA (Plotly) y Pairplot (Seaborn).
+- 4 clusters claramente diferenciados.
 
-- Identificar **patrones de inversión y retorno** por canal.
-- Mejorar la **asignación presupuestaria** en campañas de performance.
-- Estimar ventas futuras mediante modelos predictivos.
-- Segmentar leads y clientes para estrategias diferenciadas.
-- Validar calidad y profundidad del tracking en todo el embudo digital.
+### 🔹 Predicción de Asistencia
+- Modelo Random Forest.
+- Comparación visual entre valores reales y predichos.
+- R² destacado gráficamente.
 
----
+### 🔹 KPIs Finales
 
-## 👤 Autor
+| KPI                            | Valor         |
+|--------------------------------|---------------|
+| Ingresos Totales               | 99.4K €       |
+| Tasa de Conversión Promedio    | 7.76 %        |
+| Nº Clusters Identificados      | 4             |
+| R² del Modelo Predictivo       | 0.635         |
 
-**Aithor** – Consultor de datos experto en analítica digital, visualización avanzada y automatización de reporting en sectores ecommerce, SaaS, B2B y deportivo.
+## ✅ Conclusiones
+
+- 💰 **Eficiencia del Funnel**: Alta conversión con ingresos sólidos.
+- 🔍 **Segmentación accionable**: 4 clusters claramente diferenciados.
+- 🎯 **Modelo predictivo funcional**: Útil para previsión de eventos.
+
+## 🧠 Autor
+
+- **Aithor** – Consultor de datos especializado en analítica avanzada, Power BI y visualización de datos aplicados al deporte y  ecommerce.
 
 ---
 
