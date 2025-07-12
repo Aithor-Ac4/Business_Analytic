@@ -2,6 +2,8 @@
 
 Este repositorio contiene dashboards analíticos avanzados enfocados en **rendimiento multicanal**, **optimización de funnels**, **segmentación de clientes** y **predicción**, aplicados a sectores estratégicos como B2B tecnológico, retail premium, SaaS y fintech.
 
+![Análisis B2B – Hardware + Software](hardware_software_b2b.png)
+
 Cada análisis incluye visualizaciones ejecutivas y modelos que permiten tomar decisiones basadas en datos reales.
 
 ---
@@ -17,7 +19,6 @@ Este análisis explora la eficacia de campañas en Google Ads y LinkedIn Ads par
 - Predicción de ventas (modelo y error)
 - Indicadores de engagement: tiempo de sesión, tasa de rebote, etc.
 
-![Análisis B2B - Hardware + Software](Hardware + Software B2B.png)
 
 ---
 
@@ -49,4 +50,4 @@ Este análisis explora la eficacia de campañas en Google Ads y LinkedIn Ads par
 
 ---
 
-> ⚠️ Asegúrate de subir el archivo `Hardware + Software B2B.png` exactamente con ese nombre al root del repositorio para que se visualice correctamente en GitHub.
+
