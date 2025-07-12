@@ -5,7 +5,7 @@ Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desd
 
 ## 🖼️ Visualizaciones Generales
 
-##B2B
+### B2B
 ![Análisis B2B – Hardware + Software](hardware_software_b2b.png)
 
 ### Análisis General del Funnel Digital y Productos (B2C)
