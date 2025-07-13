@@ -6,7 +6,7 @@ Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desd
 <p align="center">
   <img src="Funnel_B2C_1.png" width="31%" />
   <img src="Funnel_B2C_2.png" width="31%" />
-  <img src="hardware_software_b2b.png" width="31%" />
+  <img src="hardware_software_b2b" width="31%" />
 </p>
 
 ## 📊 Objetivos
