@@ -3,16 +3,11 @@
 
 Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desde sesiones hasta ingresos, segmenta usuarios mediante clustering, y aplica un modelo predictivo para estimar la asistencia a eventos deportivos.
 
-## 🖼️ Visualizaciones Generales
-
-### B2B
-![Análisis B2B – Hardware + Software](hardware_software_b2b.png)
-
-### Análisis General del Funnel Digital y Productos (B2C)
-![Funnel B2C Parte 1](Funnel_B2C_1.png)
-
-### Predicción, Clustering y KPIs Finales
-![Funnel B2C Parte 2](Funnel_B2C_2.png)
+<p align="center">
+  <img src="Funnel_B2C_1.png" width="31%" />
+  <img src="Funnel_B2C_2.png" width="31%" />
+  <img src="hardware_software_b2b.png" width="31%" />
+</p>
 
 ## 📊 Objetivos
 
