@@ -26,7 +26,6 @@ Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desd
 | `Plotly`         | Visualizaciones interactivas premium               |
 | `Seaborn / Matplotlib` | Análisis exploratorio (EDA)                   |
 | `Scikit-learn`   | Clustering (KMeans), PCA, regresión (RandomForest) |
-| `Canva`          | Diseño de presentación visual final                |
 
 ## 📈 Análisis Realizado
 
@@ -50,20 +49,6 @@ Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desd
 - Comparación visual entre valores reales y predichos.
 - R² destacado gráficamente.
 
-### 🔹 KPIs Finales
-
-| KPI                            | Valor         |
-|--------------------------------|---------------|
-| Ingresos Totales               | 99.4K €       |
-| Tasa de Conversión Promedio    | 7.76 %        |
-| Nº Clusters Identificados      | 4             |
-| R² del Modelo Predictivo       | 0.635         |
-
-## ✅ Conclusiones
-
-- 💰 **Eficiencia del Funnel**: Alta conversión con ingresos sólidos.
-- 🔍 **Segmentación accionable**: 4 clusters claramente diferenciados.
-- 🎯 **Modelo predictivo funcional**: Útil para previsión de eventos.
 
 ## 🧠 Autor
 
