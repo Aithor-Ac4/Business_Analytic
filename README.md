@@ -4,7 +4,7 @@
 Este proyecto analiza el comportamiento del funnel digital de un ecommerce, desde sesiones hasta ingresos, segmenta usuarios mediante clustering, y aplica un modelo predictivo para estimar la asistencia a eventos deportivos.
 
 <p align="center">
-  <img src="Marketing Mix con Inversión Óptima y ROl.png" width="31%" />
+  <img src="Marketing_Mix_con_Inversión_Óptima_y_ROl.png" width="31%" />
   <img src="Funnel_B2C_2.png" width="31%" />
   <img src="hardware_software_b2b.png" width="31%" />
 </p>
